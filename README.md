@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning SwiftUi
 - 💬 Ask me about android and ios
 - 📫 How to reach me: .. [Me](https://www.linkedin.com/in/ahmadgsalman)
-- 😄 Pronouns: He/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love games
 
