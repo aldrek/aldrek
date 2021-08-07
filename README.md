@@ -5,5 +5,5 @@
 - 💬 Ask me about android and ios
 - 📫 How to reach me: .. [Me](https://www.linkedin.com/in/ahmadgsalman)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love games
+- ⚡ Fun fact: I am a gamer 
 
