@@ -7,3 +7,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a gamer 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldrek&theme=dark&show_icons=true)
