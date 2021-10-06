@@ -7,7 +7,7 @@ Hi, I'm Ahmad salman 💻
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a gamer 
 
-
+⚡ Github Stats
 
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrek&layout=Compactlayout&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
