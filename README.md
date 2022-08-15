@@ -1,7 +1,7 @@
 Hi, I'm Ahmad salman 💻
 
 - 🔭 I’m currently working on ITG Software, Inc.
-- 🌱 I’m currently learning Compose and node js  
+- 🌱 I’m currently learning compose and node js  
 - 💬 Ask me about android and ios
 - ⚡ Fun fact: I am a gamer 
 
