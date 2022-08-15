@@ -1,9 +1,8 @@
 Hi, I'm Ahmad salman 💻
 
 - 🔭 I’m currently working on ITG Software, Inc.
-- 🌱 I’m currently learning SwiftUi
+- 🌱 I’m currently learning Compose and node js  
 - 💬 Ask me about android and ios
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a gamer 
 
  ⚡ Github Stats
