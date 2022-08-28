@@ -16,7 +16,3 @@ Hi, I'm Ahmad salman 💻
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldrek&theme=dark&show_icons=true)
 <!-- - 📫 How to reach me: .. [Me](https://www.linkedin.com/in/ahmadgsalman) -->
-
- ⚡ Articles
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ahmadsalman327/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ahmadsalman327/0" alt="Recent Article 0"> 
