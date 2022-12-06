@@ -15,3 +15,21 @@ Hi, I'm Ahmad salman 💻
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldrek&theme=dark&show_icons=true)
 <!-- - 📫 How to reach me: .. [Me](https://www.linkedin.com/in/ahmadgsalman) -->
+
+
+<div style="display: inline_block"><br>
+
+
+
+ <img align="center" alt="android" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"/> 
+ <img align="center" alt="html5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+ <img align="center" alt="css3" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+  <img align="center" alt="bootstrap" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+ <img align="center" alt="sass" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+ <img align="center" alt="figma" width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> 
+ <img align="center" alt="git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+ <img align="center" alt="mssql" width="40" height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
+ <img align="center" alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+
+  
+</div>
