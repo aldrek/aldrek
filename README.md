@@ -5,7 +5,7 @@ Hi, I'm Ahmad salman 💻
 
 - 🔭 I’m currently working as a freelancer on Upwork.
 - 🌱 I’m currently learning react and node.js  
-- 💬 Ask me about android and ios
+- 💬 Ask me about web developemnt
 
 
  ⚡ Github Stats
